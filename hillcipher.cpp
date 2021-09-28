@@ -1,3 +1,9 @@
+/*
+Nama        : Mohammad Faris Arie Prasetyo
+NPM         : 140810190056
+Kelas       : Kriptografi A
+Deskripsi   : Enkripsi Deskripsi Hill Cipher
+*/
 #include<iostream>
 #include<math.h>
 using namespace std;
